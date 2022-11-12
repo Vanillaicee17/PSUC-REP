@@ -24,7 +24,7 @@ void main(){
         printf("Invaild");
     }
 }
-*/
+
 //Program 10
 #include<stdio.h>
 int main()
