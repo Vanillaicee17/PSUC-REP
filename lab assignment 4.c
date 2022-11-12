@@ -1,4 +1,4 @@
-/*
+//Program 8
 #include<stdio.h>
 void main(){
     
@@ -25,7 +25,7 @@ void main(){
     }
 }
 */
-
+//Program 10
 #include<stdio.h>
 int main()
 {
