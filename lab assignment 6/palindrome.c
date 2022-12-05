@@ -1,3 +1,5 @@
+//Write a program to check whether a given integer no. is palindrome or not.
+
 #include<stdio.h>
 #include<math.h>
 
