@@ -1,3 +1,6 @@
+//Write a program to convert the decimal number into binary to decimal. 
+//Ex: 1101 = 1*2 3 + 1 * 2 2 + 0 * 2 1+ 1* 2 0 =13 
+ 
 #include<stdio.h>
 #include<math.h>
 
